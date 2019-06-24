@@ -1,0 +1,16 @@
+div,li,h1,h2,h3,h4,h5,h6,ul,p,table,th,td{
+  padding:0;
+  margin:0;
+  font-size:0.24rem
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+ul,li{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
